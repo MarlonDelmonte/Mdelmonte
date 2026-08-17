@@ -31,9 +31,7 @@ AWS can be used for websites, mobile applications, data storage, databases, back
 
 ## Screenshot
 
-Insert the screenshot of the AWS homepage or AWS Management Console here.
-
-![AWS Homepage](screenshots/aws-homepage.png)
+The screenshots used as evidence are stored in the screenshots folder.
 
 ## Source
 
