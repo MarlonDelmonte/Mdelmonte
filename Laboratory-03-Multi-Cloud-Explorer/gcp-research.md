@@ -33,8 +33,6 @@ GCP can be used for artificial intelligence, machine learning, data analytics, w
 
 ## Screenshot
 
-Insert your screenshot of the Google Cloud homepage or console here.
-
 ![Google Cloud Homepage](screenshots/gcp-homepage.png)
 
 ## Source
